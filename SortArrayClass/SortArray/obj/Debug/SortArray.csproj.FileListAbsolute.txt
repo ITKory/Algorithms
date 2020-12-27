@@ -1,0 +1,10 @@
+C:\Users\Sony\Desktop\C#\SortArrayClass\SortArray\bin\Debug\SortArray.exe.config
+C:\Users\Sony\Desktop\C#\SortArrayClass\SortArray\bin\Debug\SortArray.exe
+C:\Users\Sony\Desktop\C#\SortArrayClass\SortArray\bin\Debug\SortArray.pdb
+C:\Users\Sony\Desktop\C#\SortArrayClass\SortArray\obj\Debug\SortArray.csprojAssemblyReference.cache
+C:\Users\Sony\Desktop\C#\SortArrayClass\SortArray\obj\Debug\SortArray.Form1.resources
+C:\Users\Sony\Desktop\C#\SortArrayClass\SortArray\obj\Debug\SortArray.Properties.Resources.resources
+C:\Users\Sony\Desktop\C#\SortArrayClass\SortArray\obj\Debug\SortArray.csproj.GenerateResource.cache
+C:\Users\Sony\Desktop\C#\SortArrayClass\SortArray\obj\Debug\SortArray.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Desktop\C#\SortArrayClass\SortArray\obj\Debug\SortArray.exe
+C:\Users\Sony\Desktop\C#\SortArrayClass\SortArray\obj\Debug\SortArray.pdb
